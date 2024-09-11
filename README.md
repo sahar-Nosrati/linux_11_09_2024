@@ -1,1 +1,1 @@
-# linux_11_09_2024
+- Study up to supers special root user
